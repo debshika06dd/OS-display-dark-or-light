@@ -3,7 +3,7 @@
 **A simple HTML, CSS, and JavaScript project that lets users switch between Light and Dark mode.
 The chosen theme is saved in Local Storage, so the preference is remembered even after refreshing or reopening the browser.**
 
-***Website is live at:*** 
+***Website is live at:*** *https://debshika06dd.github.io/OS-display-dark-or-light/*
 ---
 # ✨ Features
 
